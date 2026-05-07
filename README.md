@@ -36,3 +36,4 @@ proot-distro install ubuntu
 ```
 proot-distro login ubuntu
 ```
+Powered by Omi
